@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ClementSez/TokenPlus#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "bootstrap": "^4.3.1",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
@@ -24,6 +25,7 @@
     "fs": "0.0.1-security",
     "handlebars": "^4.1.2",
     "html": "^1.0.0",
+    "mongoose": "^5.5.9",
     "nodemon": "^1.19.0"
   }
 }
